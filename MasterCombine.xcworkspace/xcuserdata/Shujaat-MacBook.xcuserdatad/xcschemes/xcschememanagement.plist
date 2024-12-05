@@ -44,6 +44,26 @@
 			<key>orderHint</key>
 			<integer>10</integer>
 		</dict>
+		<key>CurrentValueSubject (Playground) 1.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>21</integer>
+		</dict>
+		<key>CurrentValueSubject (Playground) 2.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>22</integer>
+		</dict>
+		<key>CurrentValueSubject (Playground) 3.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>23</integer>
+		</dict>
+		<key>CurrentValueSubject (Playground).xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>20</integer>
+		</dict>
 		<key>FunctionalProgramming (Playground) 1.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
