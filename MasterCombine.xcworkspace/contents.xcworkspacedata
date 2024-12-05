@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:AnyPublishers, Just &amp; Never/AnyPublishers, Just &amp; Never.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:Handling Publishers in SwiftUI/Handling Publishers in SwiftUI.xcodeproj">
    </FileRef>
    <FileRef
