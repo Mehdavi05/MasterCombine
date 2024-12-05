@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:Combining Subscriptions/Combining Subscriptions.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:Subscriptions &amp; Cancellables/Subscriptions &amp; Cancellables.xcodeproj">
    </FileRef>
    <FileRef
