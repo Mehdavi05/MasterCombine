@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:Handling Publishers in SwiftUI/Handling Publishers in SwiftUI.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:Memory Management/Memory Management.xcodeproj">
    </FileRef>
    <FileRef
